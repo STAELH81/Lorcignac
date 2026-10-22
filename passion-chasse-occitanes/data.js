@@ -587,7 +587,7 @@ window.FORUM_DATA = {
       "thread": 3,
       "author": 18,
       "date": "2008-09-18",
-      "body": "Si besoin, j'utilise IrfanView, c'est gratuit et ça marche bien. Tu peux traiter plusieurs photos d'un coup."
+      "body": "Si besoin, j'utilise aussi PixelPoche, un petit outil gratuit pour réduire les photos avant de les mettre sur un forum. C'est ici : [PixelPoche](../pixelpoche/index.html). Tu choisis la largeur et la qualité JPEG, puis tu enregistres la photo. Plus pratique que d'envoyer 3 Mo à chaque fois."
     },
     {
       "id": 20,
