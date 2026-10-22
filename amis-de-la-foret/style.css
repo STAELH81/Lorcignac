@@ -41,3 +41,8 @@ aside p{font-size:13px;padding:0 7px}
 table{border-collapse:collapse;width:100%;font-size:13px}td,th{border:1px solid #c6cfb4;padding:10px;text-align:left}th{background:#e5ebd6}
 footer{background:#334d25;color:#f2f0df;text-align:center;font-size:12px;border-top:5px solid #8eaa5b;padding:15px}footer a{color:#e4eecb}footer p{margin:2px}
 @media(max-width:760px){body{background:#d9e0d2}.site{margin:0}.bandeau{height:220px}.bandeau-interieur{left:20px;bottom:25px}.nom{font-size:29px}.bandeau p{font-size:13px}.entete nav ul{padding:0}.entete nav a{padding:10px 11px}.colonnes{display:block}main{padding:22px 18px}aside{width:auto;border-left:0;border-top:1px solid #d3d3b5}.mosaique{grid-template-columns:1fr 1fr}.illustration-laterale{width:45%}}
+
+/* Logo association : source 3000 x 3000, affichage réduit sans déformation */
+.logo-association{float:left;display:block;width:116px;height:116px;object-fit:contain;margin:0 22px 0 0;filter:drop-shadow(1px 3px 4px #17280e88)}
+.bandeau-interieur::after{content:"";display:block;clear:both}
+@media(max-width:760px){.logo-association{width:76px;height:76px;margin-right:12px}}
