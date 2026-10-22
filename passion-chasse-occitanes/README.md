@@ -1,7 +1,5 @@
 # Passion Chasse Occitanes
 
-Forum de chasse et vie rurale du Sud-Ouest. Projet fictif, ouvert en 2006, inscriptions arrêtées en 2012.
+Forum fictif, ouvert en 2006, inscriptions fermées en 2012. Contient 30 membres, 18 sujets avec 124 messages (3 à 15 réponses par sujet). Textes variés et réponses suivies, à propos de météo, chiens, vie rurale, matériel et traditions. Le compte lucas_mrdl_81_xtrm est réservé pour une future authentification, sans mot de passe dans les fichiers publics.
 
-Ouvrir index.html : 6 rubriques, 30 membres, 18 discussions et 72 messages consultables.
-
-Compte réservé au futur ARG : lucas_mrdl_81_xtrm. Aucun mot de passe créé : connexion désactivée tant que l'authentification côté serveur n'est pas configurée. Ne pas enregistrer de mot de passe dans le JavaScript public.
+Ouvrir index.html dans un navigateur. Pas d'inscription ni d'envoi de messages.
