@@ -46,3 +46,11 @@ footer{background:#334d25;color:#f2f0df;text-align:center;font-size:12px;border-
 .logo-association{float:left;display:block;width:116px;height:116px;object-fit:contain;margin:0 22px 0 0;filter:drop-shadow(1px 3px 4px #17280e88)}
 .bandeau-interieur::after{content:"";display:block;clear:both}
 @media(max-width:760px){.logo-association{width:76px;height:76px;margin-right:12px}}
+
+/* Aligner le logo et le bloc texte sans retour du département sous le logo */
+.bandeau-interieur{display:flex;align-items:center;max-width:calc(100% - 75px);gap:22px;text-shadow:1px 2px 4px #17280e}
+.logo-association{float:none;flex:0 0 116px;margin:0}
+.identite-association{min-width:0}
+.identite-association .nom{line-height:1.14;margin-bottom:7px}
+.identite-association p{margin:0}
+@media(max-width:760px){.bandeau-interieur{max-width:calc(100% - 40px);gap:12px}.logo-association{flex-basis:76px}.identite-association .nom{font-size:clamp(21px,5vw,29px)}}
