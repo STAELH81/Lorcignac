@@ -1,2 +1,43 @@
-/* Site associatif, inspiration graphique 2015-2018 */
-*{box-sizing:border-box}body{margin:0;background:#edf1eb;font:14px Arial,Helvetica,sans-serif;color:#333;line-height:1.6}a{color:#35713e}a:hover{text-decoration:underline}.site{max-width:1040px;margin:18px auto;background:#fff;border:1px solid #d2d9d0;box-shadow:0 1px 5px #cdd4ca}.bandeau{padding:27px 30px;background:#496b43;color:#fff;border-bottom:5px solid #9ab177}.nom{color:#fff;text-decoration:none;font-size:30px;font-weight:bold}.nom:hover{color:#fff}.bandeau p{margin:2px 0 0;font-size:13px}.entete nav{background:#e3eadf;border-bottom:1px solid #cbd4c4}.entete nav ul{display:flex;flex-wrap:wrap;list-style:none;margin:0;padding:0 15px}.entete nav a{display:block;padding:12px 13px;text-decoration:none;font-weight:bold;font-size:13px;color:#375b37}.entete nav a:hover{background:#d3e0cd}.colonnes{display:flex;align-items:stretch;min-height:420px;gap:0}main{flex:1;min-width:0;padding:22px 30px 35px}main h1{font-size:24px;color:#365c38;margin:0 0 20px;border-bottom:1px solid #d5ddd1;padding-bottom:12px}h2{font-size:18px;color:#416744;margin:24px 0 9px}h3{font-size:15px;color:#385d3b;margin:8px 0}p{margin:8px 0 14px}aside{width:235px;flex-shrink:0;background:#f4f7f2;padding:22px 18px;border-left:1px solid #e1e6df}aside h2{font-size:15px;margin:0 0 8px;border-bottom:1px solid #cbd6c6;padding-bottom:5px}aside h2:not(:first-child){margin-top:24px}aside p{font-size:13px}.actualite,.carte{padding:12px 14px;border:1px solid #dbe2d8;background:#f9fbf8;margin:12px 0}.actualite time{font-size:12px;color:#737b70}.photo-attente{border:1px solid #d0dacd;background:#f3f5f1;padding:40px;text-align:center;color:#7b8577}table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #ced7ca;padding:9px;text-align:left}th{background:#eaf0e6}footer{text-align:center;background:#e6ece3;border-top:1px solid #ccd5c9;padding:14px;font-size:12px;color:#626c60}footer p{margin:2px}@media(max-width:700px){.site{margin:0}.colonnes{display:block}aside{width:auto;border-left:0;border-top:1px solid #e1e6df}.bandeau{padding:20px}.nom{font-size:25px}.entete nav ul{padding:0 6px}.entete nav a{padding:10px 9px}main{padding:20px}}
+/* Les Amis de la Forêt — ambiance site associatif illustré (2015–2018) */
+*{box-sizing:border-box}
+body{margin:0;background:#d8ddcf url("../images/foret2.jpg") center top/cover fixed;font:14px Arial,Helvetica,sans-serif;color:#30362c;line-height:1.6}
+a{color:#41711d}a:hover{color:#729c2d;text-decoration:underline}
+.site{max-width:1080px;margin:22px auto;background:#fffdf7;border:1px solid #697d4f;box-shadow:0 3px 18px #29381d77}
+.entete{border-bottom:1px solid #47652c}
+.bandeau{height:285px;padding:0;position:relative;background:linear-gradient(90deg,rgba(20,39,13,.82),rgba(25,45,17,.42) 65%,rgba(25,45,17,.08)),url("../images/foret.jpg") center 48%/cover no-repeat}
+.bandeau-interieur{position:absolute;left:45px;bottom:40px;max-width:88%;text-shadow:1px 2px 4px #17280e}
+.nom{display:block;color:white;text-decoration:none;font:bold 40px Georgia,"Times New Roman",serif;letter-spacing:.3px}
+.nom:hover{color:#fff}
+.bandeau p{color:#f6f5dc;font-size:16px;margin:2px 0}
+.entete nav{background:linear-gradient(#648839,#3f671f);border-top:3px solid #96a963;border-bottom:3px solid #304a1b}
+.entete nav ul{display:flex;flex-wrap:wrap;list-style:none;margin:0;padding:0 13px}
+.entete nav li{border-right:1px solid #ffffff30}
+.entete nav a{display:block;padding:12px 16px;color:#fff;font-size:13px;font-weight:bold;text-decoration:none;text-shadow:0 1px 1px #233918}
+.entete nav a:hover{background:#344d20;color:#fff;text-decoration:none}
+.ruban{background:#efe6c9;border-bottom:1px solid #d4c499;padding:6px 28px;color:#736644;font:italic 12px Georgia,serif;text-align:center}
+.colonnes{display:flex;min-height:465px}
+main{min-width:0;flex:1;padding:26px 28px 44px;background:#fffdf8}
+main h1{margin:0 0 20px;padding:0 0 9px;border-bottom:3px double #a9b77c;color:#47692e;font:bold 27px Georgia,serif}
+main h2{font-size:20px;color:#4c702f;margin:22px 0 9px;font-family:Georgia,serif}
+main h3{font-size:16px;color:#527335;margin:7px 0}
+p{margin:8px 0 14px}
+aside{width:246px;flex-shrink:0;background:#f3f1e4;border-left:1px solid #d3d3b5;padding:23px 17px}
+aside h2{font:bold 16px Georgia,serif;color:#45652e;background:#e3e8cc;border-bottom:2px solid #b3c090;margin:0 0 10px;padding:7px}
+aside h2:not(:first-child){margin-top:25px}
+aside p{font-size:13px;padding:0 7px}
+.actualite,.carte{border:1px solid #d7ddbd;background:#f7f8ed;padding:15px;margin:12px 0;box-shadow:1px 2px 0 #e7ebda}
+.actualite time{font-size:12px;color:#747e65}
+.visuel-presentation img{width:100%;height:220px;object-fit:cover;object-position:center;display:block;border:5px solid #f0efde;box-shadow:0 0 0 1px #cad1b8}
+.mosaique{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin:15px 0}
+.mosaique a{display:block;text-align:center;background:#e8edda;border:1px solid #cbd4b6;color:#3e5f2a;text-decoration:none}
+.mosaique img{display:block;width:100%;height:125px;object-fit:cover}
+.mosaique strong{display:block;padding:8px}
+.bouton{display:inline-block;background:linear-gradient(#7f9d49,#52752e);color:#fff;padding:8px 16px;text-decoration:none;border:1px solid #44602c;border-radius:3px;text-shadow:0 1px #334b1b}
+.bouton:hover{color:#fff;background:#466924;text-decoration:none}
+.illustration-laterale{float:right;width:40%;height:210px;object-fit:cover;border:5px solid #f0efdf;margin:0 0 16px 20px}
+.banniere-interieure{display:block;width:100%;height:205px;object-fit:cover;margin:2px 0 18px;border:5px solid #f0efdf}
+.galerie-grille{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.galerie-grille img{display:block;width:100%;height:185px;object-fit:cover;border:5px solid #edeedf}
+table{border-collapse:collapse;width:100%;font-size:13px}td,th{border:1px solid #c6cfb4;padding:10px;text-align:left}th{background:#e5ebd6}
+footer{background:#334d25;color:#f2f0df;text-align:center;font-size:12px;border-top:5px solid #8eaa5b;padding:15px}footer a{color:#e4eecb}footer p{margin:2px}
+@media(max-width:760px){body{background:#d9e0d2}.site{margin:0}.bandeau{height:220px}.bandeau-interieur{left:20px;bottom:25px}.nom{font-size:29px}.bandeau p{font-size:13px}.entete nav ul{padding:0}.entete nav a{padding:10px 11px}.colonnes{display:block}main{padding:22px 18px}aside{width:auto;border-left:0;border-top:1px solid #d3d3b5}.mosaique{grid-template-columns:1fr 1fr}.illustration-laterale{width:45%}}

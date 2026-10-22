@@ -10,8 +10,10 @@
   <div class="site">
     <header class="entete">
       <div class="bandeau">
+        <div class="bandeau-interieur">
         <a class="nom" href="index.html">Les Amis de la Forêt</a>
         <p>Association locale de Lorcignac, Tarn (81)</p>
+        </div>
       </div>
       <nav aria-label="Navigation principale">
         <ul>
@@ -25,10 +27,25 @@
         </ul>
       </nav>
     </header>
+    <div class="ruban">Découverte de la nature &bull; Forêts &bull; Sentiers &bull; Vie associative</div>
     <div class="colonnes">
       <main>
         <h1>Accueil</h1>
-        <section class="intro"><h2>Bienvenue sur le site des Amis de la Forêt</h2><p>[Présentation de l'association à rédiger]</p></section><section><h2>À la une</h2><article class="actualite"><time datetime="2017-06-10">[Date]</time><h3>[Titre de l'actualité]</h3><p>[Texte de l'actualité]</p></article></section><section><h2>Nos activités</h2><p>[Présentation des activités à rédiger]</p><p><a href="activites.html">Découvrir les activités</a></p></section>
+        <section class="intro">
+          <div class="visuel-presentation"><img src="../images/foret_sentier.jpg" alt="Sentier forestier" loading="lazy"></div>
+          <h2>Bienvenue sur le site des Amis de la Forêt</h2>
+          <p>[Présentation de l'association à rédiger]</p>
+        </section>
+        <section><h2>À la une</h2><article class="actualite"><time datetime="2017-06-10">[Date]</time><h3>[Titre de l'actualité]</h3><p>[Texte de l'actualité]</p></article></section><section class="activites-accueil">
+          <h2>Nos activités</h2>
+          <p>[Présentation des activités à rédiger]</p>
+          <div class="mosaique">
+            <a href="activites.html"><img src="../images/randonneurs.jpg" alt="Randonneurs" loading="lazy"><strong>Activités</strong></a>
+            <a href="galerie.html"><img src="../images/foret2.jpg" alt="Forêt" loading="lazy"><strong>Photos</strong></a>
+            <a href="agenda.html"><img src="../images/lac.jpg" alt="Lac" loading="lazy"><strong>Agenda</strong></a>
+          </div>
+          <p><a class="bouton" href="activites.html">Découvrir les activités &raquo;</a></p>
+        </section>
       </main>
       <aside>
         <h2>Informations</h2>
