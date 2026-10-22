@@ -3,56 +3,83 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 1032 >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 755 >>
 stream
-0 G 0.8 w
-65 771 m 530 771 l S
-BT /F2 17 Tf 173 744 Td (COMMUNE DE LORCIGNAC) Tj ET
-BT /F1 11 Tf 214 718 Td (81230 - Tarn - Midi-Pyrenees) Tj ET
-BT /F2 21 Tf 161 660 Td (BULLETIN MUNICIPAL) Tj ET
-BT /F1 14 Tf 180 635 Td (Bulletin annuel 2004) Tj ET
-65 615 m 530 615 l S
-BT /F2 13 Tf 68 570 Td (Le mot du maire) Tj ET
-68 560 m 527 560 l S
-BT /F1 11 Tf 75 536 Td ([ Texte a rediger par l'auteur ]) Tj ET
-BT /F2 13 Tf 68 460 Td (Vie municipale) Tj ET
-68 450 m 527 450 l S
-BT /F1 11 Tf 75 426 Td ([ Texte a rediger par l'auteur ]) Tj ET
-BT /F2 13 Tf 68 350 Td (Travaux et equipements) Tj ET
-68 340 m 527 340 l S
-BT /F1 11 Tf 75 316 Td ([ Texte a rediger par l'auteur ]) Tj ET
-BT /F2 13 Tf 68 240 Td (Vie associative) Tj ET
-68 230 m 527 230 l S
-BT /F1 11 Tf 75 206 Td ([ Texte a rediger par l'auteur ]) Tj ET
-BT /F2 13 Tf 68 130 Td (Informations pratiques) Tj ET
-68 120 m 527 120 l S
-BT /F1 11 Tf 75 96 Td ([ Texte a rediger par l'auteur ]) Tj ET
-BT /F1 9 Tf 135 43 Td (Lorcignac - Bulletin 2004 - document fictif - modele vierge) Tj ET
+0 G 0.7 w
+62 784 m 533 784 l S
+BT /F2 17 Tf 171 754 Td (COMMUNE DE LORCIGNAC) Tj ET
+BT /F1 11 Tf 179 730 Td (81230 - Tarn - R\351gion Midi-Pyr\351n\351es) Tj ET
+BT /F2 20 Tf 167 690 Td (BULLETIN MUNICIPAL) Tj ET
+BT /F1 13 Tf 241 664 Td (Septembre 2004) Tj ET
+62 645 m 533 645 l S
+BT /F2 15 Tf 68 607 Td (Le mot du maire) Tj ET
+68 596 m 529 596 l S
+BT /F1 11 Tf 70 570 Td (Bienvenue dans le bulletin municipal 2004 ! Bonne lecture et je vous souhaite une) Tj ET
+BT /F1 11 Tf 70 553 Td (excellente fin d'ann\351e.) Tj ET
+BT /F2 15 Tf 68 508 Td (Vie municipale) Tj ET
+68 497 m 529 497 l S
+BT /F1 11 Tf 70 471 Td (Une vie municipale dynamique et enrichissante.) Tj ET
+62 70 m 533 70 l S
+BT /F1 9 Tf 165 53 Td (Lorcignac - Bulletin municipal 2004 - 1/2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 1493 >>
+stream
+0 G 0.7 w
+62 784 m 533 784 l S
+BT /F2 17 Tf 171 754 Td (COMMUNE DE LORCIGNAC) Tj ET
+BT /F1 11 Tf 179 730 Td (81230 - Tarn - R\351gion Midi-Pyr\351n\351es) Tj ET
+BT /F2 20 Tf 167 690 Td (BULLETIN MUNICIPAL) Tj ET
+BT /F1 13 Tf 241 664 Td (Septembre 2004) Tj ET
+62 645 m 533 645 l S
+BT /F2 15 Tf 68 607 Td (Travaux et equipements) Tj ET
+68 596 m 529 596 l S
+BT /F1 11 Tf 70 570 Td (Le bus de la ligne 763 passe d\351sormais par l'abri bus situ\351 sur la route de Lorcignac.) Tj ET
+BT /F1 11 Tf 70 553 Td (La construction de la Salle du Cadran est termin\351e. Des nouveaux lampadaires ont \351t\351) Tj ET
+BT /F1 11 Tf 70 536 Td (install\351s dans le village. La r\351habilitation de l'ancien abri bus a \351t\351 r\351alis\351e.) Tj ET
+BT /F2 15 Tf 68 491 Td (Vie associative et manifestations) Tj ET
+68 480 m 529 480 l S
+BT /F1 11 Tf 70 454 Td (L'association "Les Amis de la For\352t" a organis\351 plusieurs \351v\351nements dans le village.) Tj ET
+BT /F1 11 Tf 70 437 Td (Le march\351 hebdomadaire se d\351roule chaque samedi matin sur la place de la mairie.) Tj ET
+BT /F2 15 Tf 68 392 Td (Informations pratiques) Tj ET
+68 381 m 529 381 l S
+BT /F1 11 Tf 70 355 Td (Horaires d'ouverture de la mairie : Lundi \340 vendredi, 8h30 \340 12h00 et 13h30 \340 17h00.) Tj ET
+BT /F2 15 Tf 68 310 Td (Photographies) Tj ET
+68 299 m 529 299 l S
+BT /F1 11 Tf 70 268 Td ([Photos et l\351gendes \340 ajouter]) Tj ET
+62 70 m 533 70 l S
+BT /F1 9 Tf 165 53 Td (Lorcignac - Bulletin municipal 2004 - 2/2) Tj ET
 endstream
 endobj
 xref
-0 7
+0 9
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000115 00000 n 
-0000000251 00000 n 
-0000000323 00000 n 
-0000000394 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000393 00000 n 
+0000000492 00000 n 
+0000000590 00000 n 
+0000001395 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 9 /Root 1 0 R >>
 startxref
-1477
+2939
 %%EOF
